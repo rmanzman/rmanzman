@@ -9,4 +9,4 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rmanzman%color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)]
+![Profile Views](https://komarev.com/ghpvc/?username=rmanzman&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
