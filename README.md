@@ -1,7 +1,5 @@
 ###
-<div id="header" align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
-</div>
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Redux)](https://github.com/rmanzman)
 
