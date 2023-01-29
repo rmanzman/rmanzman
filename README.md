@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"> <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux&logoColor=#764ABC"> <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=#3178C6"> <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3">  
 <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=#2496ED"> <img src="https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack&logoColor=#8DD6F9">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"></img>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="448"></img>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rmanzman&theme=react)](https://github.com/rmanzman/github-readme-stats)
 
