@@ -11,4 +11,6 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rmanzman&theme=react)](https://github.com/rmanzman/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmanzman&layout=compact)](https://github.com/rmanzman/github-readme-stats)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rmanzman&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
