@@ -1,11 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rmanzman-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmanzman)
 
 ### My tech stack
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E">
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB">
-<img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux&logoColor=#764ABC">
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26">
-<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=#1572B6">  
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"> <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux&logoColor=#764ABC"> <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26"> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=#1572B6">  
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=#3178C6">
 <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3">
 <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=#2496ED">
