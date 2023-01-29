@@ -9,4 +9,6 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rmanzman&theme=prussian)](https://github.com/rmanzman/github-readme-stats)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rmanzman&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
