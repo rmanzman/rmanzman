@@ -3,9 +3,8 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:roman.krayzman@gmail.com?subject=Hello%20Roman,%20From%20Github)
 
 ### My tech stack
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26"> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=#1572B6"> 
-<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=#F24E1E">  
-<img src="https://img.shields.io/badge/PS-black?style=for-the-badge&logo=Adobe Photoshop&logoColor=#31A8FF"> <img src="https://img.shields.io/badge/AI-black?style=for-the-badge&logo=Adobe Illustrator&logoColor=#FF9A00">  
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26"> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=#1572B6">  
+<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=#F24E1E"> <img src="https://img.shields.io/badge/PS-black?style=for-the-badge&logo=Adobe Photoshop&logoColor=#31A8FF"> <img src="https://img.shields.io/badge/AI-black?style=for-the-badge&logo=Adobe Illustrator&logoColor=#FF9A00">  
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows&logoColor=#0078D6"> <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu&logoColor=#E95420"> <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=Visual Studio Code&logoColor=#007ACC">
 
 ### Now learning for
