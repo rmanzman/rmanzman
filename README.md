@@ -1,3 +1,7 @@
+### Hello World!  
+I'm a Trainee Frontend Developer from Russia, currently studying at hexlet.io.  
+Here I will learn programming, share my experience and communicate.
+
 ### Reach me on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmanzman)
 [![GMAIL](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:roman.krayzman@gmail.com?subject=Hello%20Roman,%20From%20Github)
