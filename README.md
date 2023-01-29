@@ -1,5 +1,5 @@
 ### My tech stack
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E" />
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Redux)](https://github.com/rmanzman)
