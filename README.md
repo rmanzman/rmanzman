@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/rmanzman-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmanzman)
-[![GMAIL](https://img.shields.io/badge/gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=#FFFFFF)](mailto:roman.krayzman@gmail.com?subject=Hello%20Roman,%20From%20Github)
+[![GMAIL](https://img.shields.io/badge/gmail-black?style=flat-square&logo=Gmail&logoColor=#FFFFFF)](mailto:roman.krayzman@gmail.com?subject=Hello%20Roman,%20From%20Github)
 
 ### My tech stack
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"> <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux&logoColor=#764ABC"> <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26"> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=#1572B6">  
