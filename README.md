@@ -1,4 +1,5 @@
-[![LinkedIn](https://img.shields.io/badge/rmanzman-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmanzman)
+### Reach me on
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmanzman)
 [![GMAIL](https://img.shields.io/badge/gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:roman.krayzman@gmail.com?subject=Hello%20Roman,%20From%20Github)
 
 ### My tech stack
